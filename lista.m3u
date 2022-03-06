@@ -1,0 +1,161 @@
+
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP  24.5 
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4 
+https://g4.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1474939213560758275/RON-v-Vt_400x400.jpg" group-title="NOTICIAS", CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS       
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1409536579127939080/GqY-VqhM_400x400.jpg" group-title="NOTICIAS", C5N  25.2
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  group-title="NOTICIAS", LN+  25.3  
+https://www.youtube.com/watch?v=taquniX5KO0
+
+#EXTINF:-1 group-title="NOTICIAS", DIPUTADOS TV
+https://www.youtube.com/watch?v=RVl-EO7Nc6o
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1267455772323086338/ilCsV2Ms_400x400.png" group-title="AMBA", AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8  
+
+
+
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="AMBA", TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
+
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="AMBA", TELEFE  34.1
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="AMBA", CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 2
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTE", SSIPTV ARG SPORTS 3
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="AMBA", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 10
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTE", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AMBA", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="AMBA", CM
+https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56461
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/224354
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204478
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204473
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56462
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204296
+
+#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204300
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/169622
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56450
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204350
+
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204521
+
+#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204354
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204488
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56275
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204316
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/41340
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56261
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56263
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/56493
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204330
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204320
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyBQx36/ar-discovery-hd-theater-m.png" group-title="CURIOSIDAD", DISCOVERY THEATER
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204327
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204328
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204638
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204323
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/204623
+
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-chno="895" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="MUSICA",Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
